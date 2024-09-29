@@ -4,7 +4,8 @@ export default function Footer() {
 
     return (
         <div className="footer">
-            Footer
+            <a href='https://github.com/hanasolo82' target="blank" rel="noopener noreferrer">
+            <img className="footer-image" src="./public/Github.svg"/></a>
         </div>
     )
 }
